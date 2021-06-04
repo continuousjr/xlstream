@@ -1,6 +1,6 @@
 {
-  "name": "xlstream",
-  "version": "2.3.3",
+  "name": "@continuousjr/xlstream",
+  "version": "2.3.4",
   "description": "Turns XLSX into a readable stream.",
   "main": "lib/index",
   "types": "lib/index",
@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Claviz/xlstream.git"
+    "url": "git+https://github.com/continuousjr/xlstream.git"
   },
   "keywords": [],
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Claviz/xlstream/issues"
+    "url": "https://github.com/continuousjr/xlstream/issues"
   },
-  "homepage": "https://github.com/Claviz/xlstream#readme",
+  "homepage": "https://github.com/continuousjr/xlstream#readme",
   "devDependencies": {
     "@types/jest": "^24.0.0",
     "@types/node": "^10.12.24",
